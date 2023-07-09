@@ -51,7 +51,7 @@ cat >> ~/.ssh/config << EOF
         IdentitiesOnly yes
 EOF
 ```
-4. Crei os diretórios para os repositórios
+4. Crie os diretórios para os repositórios
 
 ```bash
  mkdir pessoal work azrepo1 azrepo2
